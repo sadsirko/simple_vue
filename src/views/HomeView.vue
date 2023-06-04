@@ -10,7 +10,7 @@
             вантажних перевезеннях та встановленні меблів та техніки.
           </p>
         </div>
-        <img src="../assets/hero-image.jpg" alt="Transport Image" />
+        <img src="../assets/logo.jpg" alt="Transport Image" />
       </div>
     </section>
     <section class="services-section">
